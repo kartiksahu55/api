@@ -1,0 +1,39 @@
+.user_logIn_btn {
+  width: 150px;
+  font-size: 20px;
+  background-color: #3475ab;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}
+
+.user_logIn_btn:active {
+  background-color: #003c6c;
+}
+
+.user_login_true > img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.user_Page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user_login_true {
+  padding: 20px 10px;
+  margin: 20px;
+  min-width: 300px;
+  box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+.user_align{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
